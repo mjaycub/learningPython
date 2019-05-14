@@ -1,5 +1,7 @@
 # learningPython
-Small project to help Helen with python
+Small project to help Helen with python.
+
+Accompanying Notion to help with this specific python/json/ffmpeg requirement that's constantly updating: https://www.notion.so/JSON-99e94eb27f844111aaea13640074108b
 
 ## How to run
 Clone or download the repo.
