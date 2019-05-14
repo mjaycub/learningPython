@@ -1,19 +1,66 @@
 {
-  "maps": [
+  "transcript": "I am sitting in a big room.",
+  "words": [
     {
-      "id": "blabla",
-      "iscategorical": "0"
+      "alignedWord": "i",
+      "case": "success",
+      "end": 6.97999999995,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 6.77,
+      "startOffset": 0,
+      "word": "I"
     },
     {
-      "id": "blabla",
-      "iscategorical": "0"
-    }
-  ],
-  "masks": {
-    "id": "valore"
-  },
-  "om_points": "value",
-  "parameters": {
-    "id": "valore"
-  }
+        "alignedWord": "am",
+        "case": "success",
+        "end": 7.180000000001,
+        "endOffset": 4,
+        "phones": [
+          {
+            "duration": 0.08,
+            "phone": "ae_B"
+          }, 
+          {
+            "duration": 0.12,
+            "phone": "m_E"
+          }
+        ],
+        "start": 6.98,
+        "startOffset": 2,
+        "word": "am"
+      },
+      {
+        "alignedWord": "sitting",
+        "case": "success",
+        "end": 7.9799999996,
+        "endOffset": 12,
+        "phones": [
+          {
+            "duration": 0.49,
+            "phone": "s_B"
+          },
+          {
+            "duration": 0.1,
+            "phone": "ih_I"
+          },
+          {
+            "duration": 0.01,
+            "phone": "t_I"
+          },
+          {
+            "duration": 0.08,
+            "phone": "ih_I"
+          }
+        ],
+        "start": 7.77,
+        "startOffset": 0,
+        "word": "Sitting"
+      }
+  ]
 }
